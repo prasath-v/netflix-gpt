@@ -2,6 +2,21 @@
 
 - Create React App using Vite
 - Add Tailwind CSS
+- Header
+- Routing of App
+- Login Form
+- Signup Form
+- Form validation
+- useRef hook
+- Firebase setup
+- Implement Signup and Signin API
+- Created Redux Store with userSlice
+- Implemented Sign out
+- Update Profile
+- BugFix: Sign up user displayName and profile picture update
+- BugFix: if the user is not logged in Redirect /browse to Login Page and vice-versa
+- Unsubscribed to the onAuthStateChanged
+- Constants file added and change hardcode image urls as constants
 
 # Features
 
